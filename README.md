@@ -1,4 +1,4 @@
-# MySQL-data-render
+# How to connect XAMPP mysql server and visualize HTML data
 Install the dependencies to run the app.py such as Python Flask,
 mysql.connector using:
 
